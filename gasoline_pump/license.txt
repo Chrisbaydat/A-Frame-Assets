@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gasoline pump
+* source:	https://sketchfab.com/3d-models/gasoline-pump-b5a77ed450b64dac9141da87fc7d4c64
+* author:	Artem Goyko (https://sketchfab.com/Artem.Goyko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gasoline pump" (https://sketchfab.com/3d-models/gasoline-pump-b5a77ed450b64dac9141da87fc7d4c64) by Artem Goyko (https://sketchfab.com/Artem.Goyko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
